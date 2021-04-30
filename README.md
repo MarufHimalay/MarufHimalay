@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**MarufHimalay/MarufHimalay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there!!
 
 - 🔭 I’m currently working on my desk
 - 🌱 I’m currently learning Everything 
@@ -32,4 +27,3 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarufHimalay&langs_count=10&theme=tokyonight&layout=compact" alt="MarufHimalay :: Top Langs" /></p>
 - ⚡ Fun fact: Love to post random things on Fb
--->
